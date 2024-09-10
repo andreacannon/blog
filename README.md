@@ -22,7 +22,7 @@ Light/Dark Mode: Users can switch between light and dark mode on the posts page.
 Navigation: Users can navigate between the form page and posts page seamlessly.
 
 ### Deployed site:
-https://andreacannon.github.io/AndreaCannon/
+https://andreacannon.github.io/blog/
 
 ![Webpage Screenshot](assets/screenshot.png)
 
